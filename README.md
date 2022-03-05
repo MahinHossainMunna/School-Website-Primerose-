@@ -1,2 +1,2 @@
-# madrasha
- university project
+# PrimeRose School
+ university project for Web Apps
